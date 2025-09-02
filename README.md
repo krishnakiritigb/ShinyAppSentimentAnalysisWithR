@@ -99,7 +99,7 @@ The app consists of multiple pages with the following functionality:
 ## Live Demo  
 
  Hosted App: [Shiny App Link](https://kiritigb0784325.shinyapps.io/TermProject/)  
-
+ You can enter your own custom review and check the sentiment or the classification based on the rating inside the app.
 ---
 
 ## References  
